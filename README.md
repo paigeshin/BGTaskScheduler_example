@@ -6,6 +6,8 @@ https://uynguyen.github.io/2020/09/26/Best-practice-iOS-background-processing-Ba
 
 https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13
 
+https://holyswift.app/new-backgroundtask-in-swiftui-and-how-to-test-it/
+
 ```swift 
   //AppDelegate
   
