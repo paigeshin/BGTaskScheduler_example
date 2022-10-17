@@ -4,6 +4,8 @@ https://lemon-dev.tistory.com/m/entry/iOS-BackgroundTask-Framework-%EA%B0%84%EB%
 
 https://uynguyen.github.io/2020/09/26/Best-practice-iOS-background-processing-Background-App-Refresh-Task/
 
+https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13
+
 ```swift 
   //AppDelegate
   
